@@ -1,6 +1,4 @@
 # Octagono
-Carmen León 27.969.02
-
 El área de un octógono regular se calcula como la mitad del producto del perímetro y la apotema (ap), utilizando la fórmula del área del poligono regular.
 Al ser su perímetro ocho veces la longitud (L) de uno de sus lados, el área será:
 
